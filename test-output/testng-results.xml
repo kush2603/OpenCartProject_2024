@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="3" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-15T20:37:59 IST" name="RegressionSuite" finished-at="2024-09-15T20:38:47 IST" duration-ms="48359">
+    <groups>
+    </groups>
+    <test started-at="2024-09-15T20:37:59 IST" name="RegressionTest" finished-at="2024-09-15T20:38:47 IST" duration-ms="48359">
+      <class name="com.opencart.testlayer.Logintest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.opencart.testlayer.Logintest@618b19ad]" started-at="2024-09-15T20:38:17 IST" name="setUp" finished-at="2024-09-15T20:38:22 IST" duration-ms="4686" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLoginTestWithInValidDetails()[pri:0, instance:com.opencart.testlayer.Logintest@618b19ad]" started-at="2024-09-15T20:38:22 IST" name="verifyLoginTestWithInValidDetails" finished-at="2024-09-15T20:38:29 IST" duration-ms="7209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginTestWithInValidDetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.opencart.testlayer.Logintest@618b19ad]" started-at="2024-09-15T20:38:29 IST" name="tearDown" finished-at="2024-09-15T20:38:29 IST" duration-ms="176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.opencart.testlayer.Logintest@618b19ad]" started-at="2024-09-15T20:38:29 IST" name="setUp" finished-at="2024-09-15T20:38:37 IST" duration-ms="7681" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLoginTestWithValidDetails()[pri:0, instance:com.opencart.testlayer.Logintest@618b19ad]" started-at="2024-09-15T20:38:37 IST" name="verifyLoginTestWithValidDetails" finished-at="2024-09-15T20:38:47 IST" duration-ms="10100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginTestWithValidDetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.opencart.testlayer.Logintest@618b19ad]" started-at="2024-09-15T20:38:47 IST" name="tearDown" finished-at="2024-09-15T20:38:47 IST" duration-ms="174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.opencart.testlayer.Logintest -->
+      <class name="com.opencart.testlayer.RegisterTest">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.opencart.testlayer.RegisterTest@3590fc5b]" started-at="2024-09-15T20:37:59 IST" name="start" finished-at="2024-09-15T20:37:59 IST" duration-ms="152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.opencart.testlayer.RegisterTest@3590fc5b]" started-at="2024-09-15T20:37:59 IST" name="setUp" finished-at="2024-09-15T20:38:08 IST" duration-ms="9681" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateRegisteringAccountByProvidingExistingAccountDetails()[pri:0, instance:com.opencart.testlayer.RegisterTest@3590fc5b]" started-at="2024-09-15T20:38:08 IST" name="validateRegisteringAccountByProvidingExistingAccountDetails" finished-at="2024-09-15T20:38:10 IST" duration-ms="1765" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRegisteringAccountByProvidingExistingAccountDetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.opencart.testlayer.RegisterTest@3590fc5b]" started-at="2024-09-15T20:38:10 IST" name="tearDown" finished-at="2024-09-15T20:38:10 IST" duration-ms="168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.opencart.testlayer.RegisterTest@3590fc5b]" started-at="2024-09-15T20:38:10 IST" name="setUp" finished-at="2024-09-15T20:38:15 IST" duration-ms="4442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateRegisteringAccountByProvidingValidDetails()[pri:0, instance:com.opencart.testlayer.RegisterTest@3590fc5b]" started-at="2024-09-15T20:38:15 IST" name="validateRegisteringAccountByProvidingValidDetails" finished-at="2024-09-15T20:38:17 IST" duration-ms="1728" status="FAIL">
+          <exception class="org.junit.ComparisonFailure">
+            <message>
+              <![CDATA[expected:<[Your Account Has Been Created!]> but was:<[Register Account]>]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.junit.ComparisonFailure: expected:<[Your Account Has Been Created!]> but was:<[Register Account]>
+at org.junit.Assert.assertEquals(Assert.java:115)
+at org.junit.Assert.assertEquals(Assert.java:144)
+at com.opencart.testlayer.RegisterTest.validateRegisteringAccountByProvidingValidDetails(RegisterTest.java:31)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.junit.ComparisonFailure -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRegisteringAccountByProvidingValidDetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.opencart.testlayer.RegisterTest@3590fc5b]" started-at="2024-09-15T20:38:17 IST" name="tearDown" finished-at="2024-09-15T20:38:17 IST" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="end()[pri:0, instance:com.opencart.testlayer.RegisterTest@3590fc5b]" started-at="2024-09-15T20:38:47 IST" name="end" finished-at="2024-09-15T20:38:47 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- com.opencart.testlayer.RegisterTest -->
+    </test> <!-- RegressionTest -->
+  </suite> <!-- RegressionSuite -->
+</testng-results>
