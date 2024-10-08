@@ -5,6 +5,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Set;
 
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebElement;
@@ -82,6 +83,11 @@ public class Utility extends Testbase{
 	{
 		String parent_id = driver.getWindowHandle();
 		driver.switchTo().window(parent_id);
+	}
+	public static void scrollDown()
+	{
+		JavascriptExecutor js = (JavascriptExecutor)driver;
+		js.executeScript("scroll(values)");
 	}
 	
 }
