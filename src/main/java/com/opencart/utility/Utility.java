@@ -78,7 +78,7 @@ public class Utility extends Testbase{
 		ArrayList<String> ids = new ArrayList<>(all_ids);
 		driver.switchTo().window(ids.get(1));
 	}
-	public static void switchToParenWindow()
+	public static void switchToParentWindow()
 	{
 		String parent_id = driver.getWindowHandle();
 		driver.switchTo().window(parent_id);
