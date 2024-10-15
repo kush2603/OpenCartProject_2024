@@ -70,3 +70,20 @@
 2024-09-15 20:38:47,217 [main] INFO **********CartOpen framework*********** - login details entered
 2024-09-15 20:38:47,405 [main] INFO **********CartOpen framework*********** - browser closed
 2024-09-15 20:38:47,407 [main] INFO **********CartOpen framework*********** - *******framework execution finished*********
+2024-10-15 19:31:56,734 [main] INFO **********CartOpen framework*********** - *****framework execution started*****
+2024-10-15 19:32:10,351 [main] INFO **********CartOpen framework*********** - browser launched with url
+2024-10-15 19:32:12,993 [main] INFO **********CartOpen framework*********** - on register page
+2024-10-15 19:32:14,679 [main] INFO **********CartOpen framework*********** - acount details entered
+2024-10-15 19:32:14,952 [main] INFO **********CartOpen framework*********** - browser closed
+2024-10-15 19:32:23,540 [main] INFO **********CartOpen framework*********** - browser launched with url
+2024-10-15 19:32:25,797 [main] INFO **********CartOpen framework*********** - signup details entered
+2024-10-15 19:32:26,808 [main] INFO **********CartOpen framework*********** - browser closed
+2024-10-15 19:32:33,263 [main] INFO **********CartOpen framework*********** - browser launched with url
+2024-10-15 19:32:33,726 [main] INFO **********CartOpen framework*********** - on login page
+2024-10-15 19:32:40,627 [main] INFO **********CartOpen framework*********** - login details entered
+2024-10-15 19:32:40,917 [main] INFO **********CartOpen framework*********** - browser closed
+2024-10-15 19:32:45,666 [main] INFO **********CartOpen framework*********** - browser launched with url
+2024-10-15 19:32:50,238 [main] INFO **********CartOpen framework*********** - on login page
+2024-10-15 19:32:56,305 [main] INFO **********CartOpen framework*********** - login details entered
+2024-10-15 19:32:56,596 [main] INFO **********CartOpen framework*********** - browser closed
+2024-10-15 19:32:56,597 [main] INFO **********CartOpen framework*********** - *******framework execution finished*********

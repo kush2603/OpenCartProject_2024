@@ -84,11 +84,12 @@ public class Utility extends Testbase{
 		String parent_id = driver.getWindowHandle();
 		driver.switchTo().window(parent_id);
 	}
-	public static void scrollDown()
-	{
-		JavascriptExecutor js = (JavascriptExecutor)driver;
-		js.executeScript("scroll(values)");
-		
-	}
+	
+//	public static void scrollDown()
+//	{
+//		JavascriptExecutor js = (JavascriptExecutor)driver;
+//		js.executeScript("scroll(values)");
+//		
+//	}
 	
 }
