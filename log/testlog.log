@@ -87,3 +87,38 @@
 2024-10-15 19:32:56,305 - **********CartOpen framework*********** -INFO - login details entered
 2024-10-15 19:32:56,596 - **********CartOpen framework*********** -INFO - browser closed
 2024-10-15 19:32:56,597 - **********CartOpen framework*********** -INFO - *******framework execution finished*********
+2024-10-20 11:51:44,264 - **********CartOpen framework*********** -INFO - *****framework execution started*****
+2024-10-20 11:51:51,631 - **********CartOpen framework*********** -INFO - browser launched with url
+2024-10-20 11:51:53,421 - **********CartOpen framework*********** -INFO - on register page
+2024-10-20 11:51:54,558 - **********CartOpen framework*********** -INFO - acount details entered
+2024-10-20 11:51:54,861 - **********CartOpen framework*********** -INFO - browser closed
+2024-10-20 11:51:58,162 - **********CartOpen framework*********** -INFO - browser launched with url
+2024-10-20 11:52:00,310 - **********CartOpen framework*********** -INFO - signup details entered
+2024-10-20 11:52:00,830 - **********CartOpen framework*********** -INFO - browser closed
+2024-10-20 11:52:04,352 - **********CartOpen framework*********** -INFO - browser launched with url
+2024-10-20 11:52:05,011 - **********CartOpen framework*********** -INFO - on login page
+2024-10-20 11:52:11,758 - **********CartOpen framework*********** -INFO - login details entered
+2024-10-20 11:52:12,080 - **********CartOpen framework*********** -INFO - browser closed
+2024-10-20 11:52:15,425 - **********CartOpen framework*********** -INFO - browser launched with url
+2024-10-20 11:52:20,104 - **********CartOpen framework*********** -INFO - on login page
+2024-10-20 11:52:25,268 - **********CartOpen framework*********** -INFO - login details entered
+2024-10-20 11:52:25,575 - **********CartOpen framework*********** -INFO - browser closed
+2024-10-20 11:52:25,578 - **********CartOpen framework*********** -INFO - *******framework execution finished*********
+2024-10-20 11:53:58,942 - **********CartOpen framework*********** -INFO - *****framework execution started*****
+2024-10-20 11:54:02,485 - **********CartOpen framework*********** -INFO - browser launched with url
+2024-10-20 11:54:04,417 - **********CartOpen framework*********** -INFO - on register page
+2024-10-20 11:54:06,210 - **********CartOpen framework*********** -INFO - acount details entered
+2024-10-20 11:54:06,579 - **********CartOpen framework*********** -INFO - browser closed
+2024-10-20 11:54:09,705 - **********CartOpen framework*********** -INFO - browser launched with url
+2024-10-20 11:54:11,822 - **********CartOpen framework*********** -INFO - signup details entered
+2024-10-20 11:54:12,212 - **********CartOpen framework*********** -INFO - browser closed
+2024-10-20 11:54:15,268 - **********CartOpen framework*********** -INFO - browser launched with url
+2024-10-20 11:54:16,114 - **********CartOpen framework*********** -INFO - on login page
+2024-10-20 11:54:22,717 - **********CartOpen framework*********** -INFO - login details entered
+2024-10-20 11:54:22,944 - **********CartOpen framework*********** -INFO - browser closed
+2024-10-20 11:54:25,879 - **********CartOpen framework*********** -INFO - browser launched with url
+2024-10-20 11:54:30,676 - **********CartOpen framework*********** -INFO - on login page
+2024-10-20 11:54:35,572 - **********CartOpen framework*********** -INFO - login details entered
+2024-10-20 11:54:35,737 - **********CartOpen framework*********** -INFO - browser closed
+2024-10-20 11:54:35,738 - **********CartOpen framework*********** -INFO - *******framework execution finished*********
+2024-11-05 20:33:15,538 - **********CartOpen framework*********** -INFO - *****framework execution started*****

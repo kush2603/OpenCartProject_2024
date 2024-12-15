@@ -87,3 +87,38 @@
 2024-10-15 19:32:56,305 [main] INFO **********CartOpen framework*********** - login details entered
 2024-10-15 19:32:56,596 [main] INFO **********CartOpen framework*********** - browser closed
 2024-10-15 19:32:56,597 [main] INFO **********CartOpen framework*********** - *******framework execution finished*********
+2024-10-20 11:51:44,264 [main] INFO **********CartOpen framework*********** - *****framework execution started*****
+2024-10-20 11:51:51,631 [main] INFO **********CartOpen framework*********** - browser launched with url
+2024-10-20 11:51:53,421 [main] INFO **********CartOpen framework*********** - on register page
+2024-10-20 11:51:54,558 [main] INFO **********CartOpen framework*********** - acount details entered
+2024-10-20 11:51:54,861 [main] INFO **********CartOpen framework*********** - browser closed
+2024-10-20 11:51:58,162 [main] INFO **********CartOpen framework*********** - browser launched with url
+2024-10-20 11:52:00,310 [main] INFO **********CartOpen framework*********** - signup details entered
+2024-10-20 11:52:00,830 [main] INFO **********CartOpen framework*********** - browser closed
+2024-10-20 11:52:04,352 [main] INFO **********CartOpen framework*********** - browser launched with url
+2024-10-20 11:52:05,011 [main] INFO **********CartOpen framework*********** - on login page
+2024-10-20 11:52:11,758 [main] INFO **********CartOpen framework*********** - login details entered
+2024-10-20 11:52:12,080 [main] INFO **********CartOpen framework*********** - browser closed
+2024-10-20 11:52:15,425 [main] INFO **********CartOpen framework*********** - browser launched with url
+2024-10-20 11:52:20,104 [main] INFO **********CartOpen framework*********** - on login page
+2024-10-20 11:52:25,268 [main] INFO **********CartOpen framework*********** - login details entered
+2024-10-20 11:52:25,575 [main] INFO **********CartOpen framework*********** - browser closed
+2024-10-20 11:52:25,578 [main] INFO **********CartOpen framework*********** - *******framework execution finished*********
+2024-10-20 11:53:58,942 [main] INFO **********CartOpen framework*********** - *****framework execution started*****
+2024-10-20 11:54:02,485 [main] INFO **********CartOpen framework*********** - browser launched with url
+2024-10-20 11:54:04,417 [main] INFO **********CartOpen framework*********** - on register page
+2024-10-20 11:54:06,210 [main] INFO **********CartOpen framework*********** - acount details entered
+2024-10-20 11:54:06,579 [main] INFO **********CartOpen framework*********** - browser closed
+2024-10-20 11:54:09,705 [main] INFO **********CartOpen framework*********** - browser launched with url
+2024-10-20 11:54:11,822 [main] INFO **********CartOpen framework*********** - signup details entered
+2024-10-20 11:54:12,212 [main] INFO **********CartOpen framework*********** - browser closed
+2024-10-20 11:54:15,268 [main] INFO **********CartOpen framework*********** - browser launched with url
+2024-10-20 11:54:16,114 [main] INFO **********CartOpen framework*********** - on login page
+2024-10-20 11:54:22,717 [main] INFO **********CartOpen framework*********** - login details entered
+2024-10-20 11:54:22,944 [main] INFO **********CartOpen framework*********** - browser closed
+2024-10-20 11:54:25,879 [main] INFO **********CartOpen framework*********** - browser launched with url
+2024-10-20 11:54:30,676 [main] INFO **********CartOpen framework*********** - on login page
+2024-10-20 11:54:35,572 [main] INFO **********CartOpen framework*********** - login details entered
+2024-10-20 11:54:35,737 [main] INFO **********CartOpen framework*********** - browser closed
+2024-10-20 11:54:35,738 [main] INFO **********CartOpen framework*********** - *******framework execution finished*********
+2024-11-05 20:33:15,538 [main] INFO **********CartOpen framework*********** - *****framework execution started*****

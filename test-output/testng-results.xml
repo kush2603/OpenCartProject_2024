@@ -2,58 +2,58 @@
 <testng-results ignored="0" total="4" passed="3" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-09-15T20:37:59 IST" name="RegressionSuite" finished-at="2024-09-15T20:38:47 IST" duration-ms="48359">
+  <suite started-at="2024-10-20T11:53:58 IST" name="RegressionSuite" finished-at="2024-10-20T11:54:35 IST" duration-ms="36934">
     <groups>
     </groups>
-    <test started-at="2024-09-15T20:37:59 IST" name="RegressionTest" finished-at="2024-09-15T20:38:47 IST" duration-ms="48359">
+    <test started-at="2024-10-20T11:53:58 IST" name="RegressionTest" finished-at="2024-10-20T11:54:35 IST" duration-ms="36934">
       <class name="com.opencart.testlayer.Logintest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.opencart.testlayer.Logintest@618b19ad]" started-at="2024-09-15T20:38:17 IST" name="setUp" finished-at="2024-09-15T20:38:22 IST" duration-ms="4686" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.opencart.testlayer.Logintest@618b19ad]" started-at="2024-10-20T11:54:12 IST" name="setUp" finished-at="2024-10-20T11:54:15 IST" duration-ms="3182" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verifyLoginTestWithInValidDetails()[pri:0, instance:com.opencart.testlayer.Logintest@618b19ad]" started-at="2024-09-15T20:38:22 IST" name="verifyLoginTestWithInValidDetails" finished-at="2024-09-15T20:38:29 IST" duration-ms="7209" status="PASS">
+        <test-method signature="verifyLoginTestWithInValidDetails()[pri:0, instance:com.opencart.testlayer.Logintest@618b19ad]" started-at="2024-10-20T11:54:15 IST" name="verifyLoginTestWithInValidDetails" finished-at="2024-10-20T11:54:22 IST" duration-ms="7364" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLoginTestWithInValidDetails -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.opencart.testlayer.Logintest@618b19ad]" started-at="2024-09-15T20:38:29 IST" name="tearDown" finished-at="2024-09-15T20:38:29 IST" duration-ms="176" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.opencart.testlayer.Logintest@618b19ad]" started-at="2024-10-20T11:54:22 IST" name="tearDown" finished-at="2024-10-20T11:54:22 IST" duration-ms="179" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.opencart.testlayer.Logintest@618b19ad]" started-at="2024-09-15T20:38:29 IST" name="setUp" finished-at="2024-09-15T20:38:37 IST" duration-ms="7681" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.opencart.testlayer.Logintest@618b19ad]" started-at="2024-10-20T11:54:22 IST" name="setUp" finished-at="2024-10-20T11:54:26 IST" duration-ms="3089" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verifyLoginTestWithValidDetails()[pri:0, instance:com.opencart.testlayer.Logintest@618b19ad]" started-at="2024-09-15T20:38:37 IST" name="verifyLoginTestWithValidDetails" finished-at="2024-09-15T20:38:47 IST" duration-ms="10100" status="PASS">
+        <test-method signature="verifyLoginTestWithValidDetails()[pri:0, instance:com.opencart.testlayer.Logintest@618b19ad]" started-at="2024-10-20T11:54:26 IST" name="verifyLoginTestWithValidDetails" finished-at="2024-10-20T11:54:35 IST" duration-ms="9547" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLoginTestWithValidDetails -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.opencart.testlayer.Logintest@618b19ad]" started-at="2024-09-15T20:38:47 IST" name="tearDown" finished-at="2024-09-15T20:38:47 IST" duration-ms="174" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.opencart.testlayer.Logintest@618b19ad]" started-at="2024-10-20T11:54:35 IST" name="tearDown" finished-at="2024-10-20T11:54:35 IST" duration-ms="154" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.opencart.testlayer.Logintest -->
       <class name="com.opencart.testlayer.RegisterTest">
-        <test-method is-config="true" signature="start()[pri:0, instance:com.opencart.testlayer.RegisterTest@3590fc5b]" started-at="2024-09-15T20:37:59 IST" name="start" finished-at="2024-09-15T20:37:59 IST" duration-ms="152" status="PASS">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.opencart.testlayer.RegisterTest@3590fc5b]" started-at="2024-10-20T11:53:58 IST" name="start" finished-at="2024-10-20T11:53:58 IST" duration-ms="132" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- start -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.opencart.testlayer.RegisterTest@3590fc5b]" started-at="2024-09-15T20:37:59 IST" name="setUp" finished-at="2024-09-15T20:38:08 IST" duration-ms="9681" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.opencart.testlayer.RegisterTest@3590fc5b]" started-at="2024-10-20T11:53:58 IST" name="setUp" finished-at="2024-10-20T11:54:03 IST" duration-ms="4633" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="validateRegisteringAccountByProvidingExistingAccountDetails()[pri:0, instance:com.opencart.testlayer.RegisterTest@3590fc5b]" started-at="2024-09-15T20:38:08 IST" name="validateRegisteringAccountByProvidingExistingAccountDetails" finished-at="2024-09-15T20:38:10 IST" duration-ms="1765" status="PASS">
+        <test-method signature="validateRegisteringAccountByProvidingExistingAccountDetails()[pri:0, instance:com.opencart.testlayer.RegisterTest@3590fc5b]" started-at="2024-10-20T11:54:03 IST" name="validateRegisteringAccountByProvidingExistingAccountDetails" finished-at="2024-10-20T11:54:06 IST" duration-ms="2681" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateRegisteringAccountByProvidingExistingAccountDetails -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.opencart.testlayer.RegisterTest@3590fc5b]" started-at="2024-09-15T20:38:10 IST" name="tearDown" finished-at="2024-09-15T20:38:10 IST" duration-ms="168" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.opencart.testlayer.RegisterTest@3590fc5b]" started-at="2024-10-20T11:54:06 IST" name="tearDown" finished-at="2024-10-20T11:54:06 IST" duration-ms="295" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.opencart.testlayer.RegisterTest@3590fc5b]" started-at="2024-09-15T20:38:10 IST" name="setUp" finished-at="2024-09-15T20:38:15 IST" duration-ms="4442" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.opencart.testlayer.RegisterTest@3590fc5b]" started-at="2024-10-20T11:54:06 IST" name="setUp" finished-at="2024-10-20T11:54:09 IST" duration-ms="3323" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="validateRegisteringAccountByProvidingValidDetails()[pri:0, instance:com.opencart.testlayer.RegisterTest@3590fc5b]" started-at="2024-09-15T20:38:15 IST" name="validateRegisteringAccountByProvidingValidDetails" finished-at="2024-09-15T20:38:17 IST" duration-ms="1728" status="FAIL">
+        <test-method signature="validateRegisteringAccountByProvidingValidDetails()[pri:0, instance:com.opencart.testlayer.RegisterTest@3590fc5b]" started-at="2024-10-20T11:54:09 IST" name="validateRegisteringAccountByProvidingValidDetails" finished-at="2024-10-20T11:54:11 IST" duration-ms="1933" status="FAIL">
           <exception class="org.junit.ComparisonFailure">
             <message>
               <![CDATA[expected:<[Your Account Has Been Created!]> but was:<[Register Account]>]]>
@@ -95,11 +95,11 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateRegisteringAccountByProvidingValidDetails -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.opencart.testlayer.RegisterTest@3590fc5b]" started-at="2024-09-15T20:38:17 IST" name="tearDown" finished-at="2024-09-15T20:38:17 IST" duration-ms="173" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.opencart.testlayer.RegisterTest@3590fc5b]" started-at="2024-10-20T11:54:12 IST" name="tearDown" finished-at="2024-10-20T11:54:12 IST" duration-ms="208" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="end()[pri:0, instance:com.opencart.testlayer.RegisterTest@3590fc5b]" started-at="2024-09-15T20:38:47 IST" name="end" finished-at="2024-09-15T20:38:47 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="end()[pri:0, instance:com.opencart.testlayer.RegisterTest@3590fc5b]" started-at="2024-10-20T11:54:35 IST" name="end" finished-at="2024-10-20T11:54:35 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- end -->
