@@ -65,7 +65,7 @@ public class Testbase{
 		driver.get("https://naveenautomationlabs.com/opencart/index.php?route=common/home");
 		driver.manage().window().maximize();
 		driver.manage().deleteAllCookies();
-		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
 		
 		logger.info("browser launched with url");
 		
