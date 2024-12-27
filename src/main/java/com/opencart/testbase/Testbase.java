@@ -66,7 +66,7 @@ public class Testbase{
 		driver.manage().window().maximize();
 		driver.manage().deleteAllCookies();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
-		
+		driver.close();
 		logger.info("browser launched with url");
 		
 		homepage_obj = new Homepage(driver);
